@@ -22,7 +22,7 @@ section{
 }
 .jumbotron img{
     width: 200px;
-transition:all 1s ;
+/* transition:all 1s ; */
 }
 /* .jumbotron a{
     display: inline-block;
@@ -102,6 +102,15 @@ transition:all 1s ;
 /* .contact svg{
 
 } */
+
+/* gallery */
+.gallery-img{
+    width: 100%;
+}
+
+#gallery .row > *{
+    padding: 0;
+}
 
 footer{
     background-color: #e2fff3;
